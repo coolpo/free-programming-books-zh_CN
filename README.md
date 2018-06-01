@@ -11,8 +11,6 @@
 
 欢迎订阅我的微信公众帐号，只推送原创文字。欢迎扫描二维码订阅：
 
-![justjavac微信公众帐号](http://justjavac.com/assets/images/weixin-justjavac.jpg)
-
 ## 参与交流
 
 欢迎大家将珍藏已久的经典免费书籍共享出来，您可以：
